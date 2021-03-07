@@ -1,11 +1,11 @@
 {
-  "name": "metaleft-pad",
-  "version": "9001",
+  "name": "meta-left-pad",
+  "version": "9001.0.0",
   "description": "String left pad",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
-    "test": "node test",
+    "test": "node test"
   },
   "devDependencies": {
     "benchmark": "^2.1.0",
@@ -15,7 +15,7 @@
   "keywords": [
   ],
   "repository": {
-    "url": "git@github.com:JFrisell/metaleft-pad.git",
+    "url": "git@github.com:stevemao/left-pad.git",
     "type": "git"
   },
   "author": "jfrisell",
