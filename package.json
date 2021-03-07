@@ -1,0 +1,29 @@
+{
+  "name": "metaleft-pad",
+  "version": "9001",
+  "description": "String left pad",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node test",
+  },
+  "devDependencies": {
+    "benchmark": "^2.1.0",
+    "fast-check": "0.0.8",
+    "tape": "*"
+  },
+  "keywords": [
+  ],
+  "repository": {
+    "url": "git@github.com:JFrisell/metaleft-pad.git",
+    "type": "git"
+  },
+  "author": "jfrisell",
+  "maintainers": [
+    {
+      "name": "Jaden Frisell",
+      "email": "jadenfrisell@gmail.com"
+    }
+  ],
+  "license": "MIT"
+}
